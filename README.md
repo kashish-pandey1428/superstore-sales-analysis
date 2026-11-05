@@ -78,3 +78,15 @@ It also helped me understand how to approach business questions using data inste
 
 **Project:** Superstore Sales Analysis
 **Domain:** Retail Analytics
+
+
+Project Visualisations
+
+ 1. Sales by Category
+[Sales by Category](images/sales_by_category.png)
+
+ 2. Profit by Category
+[Profit by Category](images/profit_by_category.png)
+
+ 3. Sales by Region
+[Sales by Region](images/sales_by_region.png)
