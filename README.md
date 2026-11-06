@@ -98,4 +98,5 @@ Explore the interactive Superstore Sales Dashboard created using Power BI.
 
 ![Power BI Dashboard](images/powerbi_dashboard.jpeg)
 
+
 [Download Power BI Dashboard](powerbi/Superstore_Sales_Dashboard.pbix)
