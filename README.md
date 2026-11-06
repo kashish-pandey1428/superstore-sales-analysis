@@ -90,3 +90,10 @@ Project Visualisations
 
  3. Sales by Region
 [Sales by Region](images/sales_by_region.png)
+
+
+## Power BI Dashboard
+
+Explore the interactive Superstore Sales Dashboard created using Power BI.
+
+[Download Power BI Dashboard](powerbi/Superstore_Sales_Dashboard.pbix)
